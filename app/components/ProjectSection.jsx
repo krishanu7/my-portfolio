@@ -11,8 +11,8 @@ const projectData = [
     description: "Personal portfolio website showcasing my web development projects and skills.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "",
+    gitUrl: "https://github.com/krishanu7/my-portfolio",
+    previewUrl: "https://my-portfolio-git-main-krishanu7s-projects.vercel.app/",
   },
   {
     id: 2,
