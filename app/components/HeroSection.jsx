@@ -19,7 +19,7 @@ const HeroSection = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               Hello, I&apos;m{" "}
             </span>
-            <br></br>
+            <br />
             <TypeAnimation
               sequence={[
                 "Krishanu Saha",
@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Hi, I'm Krishanu Saha, a Jadavpur University IT student graduating in 2025. I'm a web developer passionate about React and Node. Currently crafting my portfolio, I've tackled various projects showcasing my skills.
+            Hi, I&apos;m Krishanu Saha, a Jadavpur University IT student graduating in 2025. I&apos;m a web developer passionate about React and Node. Currently crafting my portfolio, I&apos;ve tackled various projects showcasing my skills.
           </p>
           <div>
             <Link
@@ -54,7 +54,6 @@ const HeroSection = () => {
                 Download CV
               </span>
             </Link>
-
           </div>
         </motion.div>
         <motion.div
